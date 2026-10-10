@@ -1,0 +1,6 @@
+{
+  "name": "Maya AI Ultimate",
+  "description": "Bengali & English voice assistant and interactive Android companion with Normal, Funny, and Girlfriend persona modes, device intent execution, and Gemini multi-turn reasoning.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
